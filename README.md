@@ -1,2 +1,2 @@
 # JAVA_BASICS
- BASIC JAVA PROGRAMS.
+You can find basic java programs to get a touch of Java
